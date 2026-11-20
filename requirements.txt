@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+joblib
+altair>=5
+streamlit>=1.40
